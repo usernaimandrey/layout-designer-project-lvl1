@@ -61,3 +61,15 @@ h3 h2 h1 {
   font-family: Neucha, serif;
   line-height: 1.2em;
 }
+
+.max-width {
+  max-width: 1110px;
+}
+
+.pb-100 {
+  padding-bottom: 100px;
+}
+
+.pt-100 {
+  padding-top: 100px;
+}
