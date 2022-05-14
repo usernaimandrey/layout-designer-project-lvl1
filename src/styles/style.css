@@ -15,25 +15,25 @@
 @font-face {
   font-weight: 400;
   font-family: OpenSans;
-  src: url("../../assets/fonts/OpenSans-Regular.ttf");
+  src: url("../assets/fonts/OpenSans-Medium.ttf");
 }
 
 @font-face {
   font-weight: 700;
   font-family: OpenSans;
-  src: url("../../assets/fonts/OpenSans-Bold.ttf");
+  src: url("../assets/fonts/OpenSans-Bold.ttf");
 }
 
 @font-face {
   font-weight: 300;
   font-family: OpenSans;
-  src: url("../../assets/fonts/OpenSans-Light.ttf");
+  src: url("../assets/fonts/OpenSans-Light.ttf");
 }
 
 @font-face {
   font-weight: 400;
   font-family: Neucha;
-  src: url("../../assets/fonts/Neucha-Regular.ttf");
+  src: url("../assets/fonts/Neucha-Regular.ttf");
 }
 
 body {
@@ -44,7 +44,7 @@ body {
 
   line-height: 1.6em;
 
-  background-image: url("../../assets/images/background.png");
+  background-image: url("../assets/images/background.png");
 }
 
 h3 {
