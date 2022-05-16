@@ -1,0 +1,34 @@
+.header {
+    width: 100%;
+    min-height: 914px;
+  
+    background-color: rgba(100% 100% 100% / 90%);
+  }
+  
+  .img-container {
+    top: 58px;
+    left: 462px;
+  }
+  
+  .column {
+    margin-top: 185px;
+  }
+  
+  .content-header {
+    flex-basis: 50%;
+    margin-right: 15px;
+  }
+  
+  .link {
+    max-width: 148px;
+    max-height: 49px;
+    padding: 12px 24px;
+  
+    background: var(--basic);
+  }
+  
+  .link a {
+    color: var(--white);
+    font-weight: 700;
+    text-decoration: none;
+  }
